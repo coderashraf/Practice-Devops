@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: coderashraf/nginx:v0.1.0
+          image: coderashraf/nginx:v0.1.1
           ports:
             - containerPort: 80
